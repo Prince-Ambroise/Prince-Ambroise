@@ -30,7 +30,7 @@ Plateforme web créée avec WordPress et Elementor autour du fitness, de la cali
 
 ### 🎯 Objectif
 
-Intégrer la formation Développeur Web & Web Mobile afin de renforcer mes compétences et participer à des projets web ambitieux.
+Intégrer la formation Développeur Web & Web Mobile afin de renforcer mes compétences, tout en développant mon expérience à travers des projets concrets et une future expérience en entreprise.
 
 ### 📫 Me contacter
 
